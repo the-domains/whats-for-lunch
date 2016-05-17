@@ -1,0 +1,14 @@
+layout_spectrum: 0.025510455947369337
+typography_spectrum: 0.7764972168952227
+color:
+  brandStrength: 0.10833358741365373
+  lightness: 0.2618786641396582
+  saturation: 0.5700296331197023
+  rhythmicContrast: 0.5792127172462642
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: "what's for lunch"
