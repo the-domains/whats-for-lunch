@@ -6,9 +6,9 @@ color:
   saturation: 0.5700296331197023
   rhythmicContrast: 0.5792127172462642
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
 name: "what's for lunch"
